@@ -1,0 +1,1 @@
+<img src="{{ asset('logo/bay.jpg') }}" alt="logo image" width="100px">
